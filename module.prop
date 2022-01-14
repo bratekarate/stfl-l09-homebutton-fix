@@ -1,0 +1,6 @@
+id=stf-l09-home-button-fix
+name=STF-L09 Home Button Fix (OpenKirin/LOS)
+version=v1
+versionCode=1
+author=bratekarate
+description=Fix home button on OpenKirin/LOS on Kirin devices.
